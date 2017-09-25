@@ -1,0 +1,22 @@
+.main1 {
+  width: 100%;
+  height: 10rem;
+}
+
+.main2 {
+  width: 100%;
+  height: 10rem;
+}
+
+.drag1 {
+  background-color: purple;
+  width: 4rem;
+  height: 4rem;
+}
+
+.drop {
+  background-color: teal;
+  width: 50%;
+  margin: 0 auto;
+  height: 10rem;
+}
